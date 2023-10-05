@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,skumar237,Kumar,Srivats
 employee, pjlin, Lin, Philip
